@@ -1,0 +1,12 @@
+dstm2
+dstm2.benchmark
+dstm2.exceptions
+dstm2.factory
+dstm2.factory.ofree
+dstm2.factory.ofree.invisible
+dstm2.factory.shadow
+dstm2.factory.shadow.invisible
+dstm2.factory.twophase
+dstm2.manager
+dstm2.util
+log4dstm2
